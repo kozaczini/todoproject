@@ -1,0 +1,37 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Node.js (Cloud Functions)
+node_modules/
+npm-debug.log
+
+# Firebase
+.firebase/
+firebase-debug.log
+.firebaserc
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
